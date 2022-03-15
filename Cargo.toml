@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"pine-client",
+	"dev-server",
+]
+

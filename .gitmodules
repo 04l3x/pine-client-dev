@@ -1,0 +1,3 @@
+[submodule "pine-client"]
+	path = pine-client
+	url = https://gitlab.com/0al3x/pine-client.git
